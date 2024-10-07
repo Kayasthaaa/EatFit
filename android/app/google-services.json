@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543706345418",
+    "project_id": "eatfit-7388b",
+    "storage_bucket": "eatfit-7388b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543706345418:android:b0fcfc58e56d3f8997e933",
+        "android_client_info": {
+          "package_name": "com.flutter.eat_fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKxEdgzPO9-uksU_N0PwIHPNLGMg0KS04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
